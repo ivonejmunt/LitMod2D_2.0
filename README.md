@@ -55,6 +55,6 @@ LitMod2D_2.0-Python3-PyQt5/
 This version is based on **LitMod2D_2.0** developed by the original authors. The scientific methodology and numerical solver remain attributable to the original research team. Please cite the relevant original publications when using the software:
 
 - Afonso, J. C., Fernández, M., Ranalli, G., Griffin, W. L., & Connolly, J. A. D. (2008). Integrated geophysical-petrological modeling of the lithosphere and sublithospheric upper mantle: Methodology and applications. *Geochemistry, Geophysics, Geosystems*. https://doi.org/10.1029/2007GC001834
-- Kumar, A. et al. (2020). LitMod2D_2.0. *Geochemistry, Geophysics, Geosystems*. https://doi.org/10.1029/2019GC008777
+- Kumar, A., M. Fernàndez, I. Jiménez‐Munt, M. Torne, J. Vergés, J.C. Afonso, 2020, “LitMod2D_2.0: An improved integrated geophysical‐petrological modeling tool for the physical interpretation of upper mantle anomalies”, Geochemistry Geophysics Geosystems, 21, e2019GC008777. https://doi.org/10.1029/2019GC008777
 
 Upstream distribution: https://github.com/ajay6763/LitMod2D_2.0_package_dist_users
