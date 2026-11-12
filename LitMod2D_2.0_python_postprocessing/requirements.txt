@@ -1,0 +1,6 @@
+# PyGMT requires the GMT library; install both from conda-forge as shown in README.md.
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+matplotlib>=3.7
+pygmt>=0.10
