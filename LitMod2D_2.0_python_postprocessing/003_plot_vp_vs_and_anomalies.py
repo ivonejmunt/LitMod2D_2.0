@@ -304,7 +304,7 @@ def main():
     with fig.subplot(
         nrows=5,
         ncols=1,
-        figsize=("18c", "28c"),
+        figsize=("18c", "48c"),
         margins=["0.2c", "1.7c"],
         title="LitMod 2D Profile",
         frame=["WSne"],
