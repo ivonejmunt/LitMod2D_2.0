@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+xarray
+scipy
+netCDF4
+openpyxl
+# Optional for legacy GMT binary .grd files: GMT supplied by a PyGMT environment
